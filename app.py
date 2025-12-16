@@ -8,8 +8,8 @@ app = Flask(__name__)
 # Inhalte auch serverseitig verfügbar (für API)
 WISHES = [
     "Gute Besserung, Kiddo! Nimm pls die Zeit, die dein Körper braucht.",
-    "Ich hoffe, du fühlst dich schon ganz bald wieder stabiler, Schritt für Schritt.",
-    "Möge dein Kopf wieder klar werden und die Naivität deinen Kopf verlassen!",
+    "Ich hoffe, du fühlst dich schon ganz bald wieder stabiler, Schritt für Schritt, (Mittelfinger).",
+    "Möge die Naivität deinen Kopf verlassen!",
     "Nerv nicht",
     "Du nervst",
     "Ich hasse dich",
